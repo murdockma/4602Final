@@ -1,7 +1,7 @@
 # Crypto Script (Using prophet module) 🧙
 
 
-Script for outputting crypto stats from coingecko APIreddit 
+Script for outputting crypto stats from coingecko APIreddit ⇾
 - reddit stats
 - developer stats/scores
 - descriptions
