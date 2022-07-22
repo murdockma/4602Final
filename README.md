@@ -11,4 +11,4 @@ Script for outputting crypto stats from coingecko APIreddit
 as well as visualizing desired coin with automated annotations
 
 
-Priors are left at the standard, must fine tune, add dependencies, and modify the 'days' predicted parameter for a reasonable prediction
+<i> <b>Priors are left at the standard, must fine tune, add dependencies, and modify the 'days' predicted parameter for a reasonable prediction </b></i>
