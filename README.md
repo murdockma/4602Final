@@ -1,9 +1,12 @@
 # 4602Final
 
 
-Script for outputting crypto stats from coingecko API
-    - reddit stats
-    - developer stats/scores
+Script for outputting crypto stats from coingecko APIreddit 
+- stats
+
+
+
+- developer stats/scores
     - descriptions
     - roadmaps
     - etc 
