@@ -1,4 +1,4 @@
-# 4602Final
+# Crypto Script (Using prophet module)
 
 
 Script for outputting crypto stats from coingecko APIreddit 
