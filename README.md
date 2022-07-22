@@ -2,14 +2,11 @@
 
 
 Script for outputting crypto stats from coingecko APIreddit 
-- stats
-
-
-
+- reddit stats
 - developer stats/scores
-    - descriptions
-    - roadmaps
-    - etc 
+- descriptions
+- roadmaps
+- etc 
     
 as well as visualizing desired coin with automated annotations
 
