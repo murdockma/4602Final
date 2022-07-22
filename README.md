@@ -1,4 +1,4 @@
-# Crypto Script (Using prophet module)
+# Crypto Script (Using prophet module) 🧙
 
 
 Script for outputting crypto stats from coingecko APIreddit 
