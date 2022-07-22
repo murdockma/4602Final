@@ -12,3 +12,5 @@ as well as visualizing desired coin with automated annotations
 
 
 <i> <b>Priors are left at the standard, must fine tune, add dependencies, and modify the 'days' predicted parameter for a reasonable prediction </b></i>
+
+©
